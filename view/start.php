@@ -1,0 +1,1 @@
+<a href='/article/index.php?action=list'>게시판 시작하기</a><br>
